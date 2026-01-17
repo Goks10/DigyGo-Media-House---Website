@@ -1,0 +1,346 @@
+﻿Website Structure
+1. Home
+
+2. Services
+
+3. Personal Branding Program
+
+4. Case Study
+
+5. About Us
+
+6. Contact / Book Call
+
+________________
+
+
+1. HOME PAGE
+________________
+
+
+Hero Section
+Headline:
+ We Build Personal Brands Through Content That Gets Watched.
+Sub-headline:
+ End-to-end YouTube & short-form content systems for founders, creators, and businesses.
+CTA buttons:
+ Book a Free Strategy Call
+See How It Works
+________________
+
+
+Social Proof (early trust)
+Trusted by early-stage founders & growing brands
+Team behind Digygo – Digital Marketing & AI Agency
+________________
+
+
+Problem Section
+Most creators and founders struggle with:
+   * Inconsistent content
+
+   * Low views and engagement
+
+   * No clear personal brand positioning
+
+   * Spending on videos that don’t convert
+
+   * No system for growth
+
+We fix this.
+________________
+
+
+How It Works (3 steps)
+1. Positioning & Strategy
+ We define your content pillars, audience, and brand voice.
+2. Content Production System
+ We script, shoot, edit, and repurpose long-form + short-form content.
+3. Growth & Optimization
+ We track performance, refine formats, and scale what works.
+________________
+
+
+Services Overview
+YouTube Authority Building
+ Long-form content that builds trust and visibility.
+Short-Form Content Domination
+ Reels & Shorts designed for reach and engagement.
+Personal Branding (End-to-End)
+ Strategy → Content → Growth → Automation.
+Button: View All Services
+________________
+
+
+Case Study Highlight
+Marketing Brand – YouTube Growth
+      * 4 videos crossed 1,000+ views organically
+
+      * 3 consecutive uploads crossed 1,000+ views
+
+      * Platforms: YouTube & Instagram
+
+      * Services: Scripting, editing, content structure
+
+Button: View Case Study
+________________
+
+
+Why Us
+         * Built by the team behind Digygo (Marketing + AI)
+
+         * Strategy-first, not just shooting videos
+
+         * Focus on systems, not random content
+
+         * Performance mindset
+
+         * Lean, founder-driven execution
+
+________________
+
+
+Founding Clients Program
+Founding Creator Program – Limited Slots
+We are onboarding our first 5 personal brands with:
+            * Special early partner pricing
+
+            * Priority execution
+
+            * Case study collaboration
+
+Button: Apply Now
+________________
+
+
+Final CTA
+Ready to build your personal brand?
+Book a free 30-minute strategy call.
+________________
+
+
+2. SERVICES PAGE
+________________
+
+
+Our Services
+________________
+
+
+YouTube Authority Program
+               * Channel positioning
+
+               * Content strategy
+
+               * Scriptwriting
+
+               * Video editing
+
+               * Thumbnails
+
+               * SEO optimization
+
+               * Growth roadmap
+
+________________
+
+
+Short-Form Content Program
+                  * Reels / Shorts strategy
+
+                  * Batch content planning
+
+                  * Trend-based formats
+
+                  * High-retention editing
+
+                  * Platform optimization
+
+________________
+
+
+Personal Branding System (Flagship)
+Our complete end-to-end solution:
+                     * Personal brand positioning
+
+                     * Content pillars
+
+                     * Monthly shoot planning
+
+                     * Long + short-form production
+
+                     * Repurposing
+
+                     * Posting automation
+
+                     * Analytics & growth tracking
+
+Available in 3 / 6 / 12 month programs.
+________________
+
+
+3. PERSONAL BRANDING PROGRAM PAGE
+________________
+
+
+Personal Brand Launchpad (90 Days)
+Turn your expertise into visibility and authority.
+________________
+
+
+Who this is for
+                        * Founders
+
+                        * Startup leaders
+
+                        * Coaches
+
+                        * Consultants
+
+                        * Creators
+
+                        * Agency owners
+
+________________
+
+
+What you get
+                           * Brand positioning workshop
+
+                           * Content strategy
+
+                           * 30 short videos
+
+                           * 4 YouTube videos
+
+                           * Editing & optimization
+
+                           * Content calendar
+
+                           * Growth plan
+
+________________
+
+
+Outcome
+                              * Clear personal brand
+
+                              * Consistent content flow
+
+                              * Increased visibility
+
+                              * Authority in your niche
+
+________________
+
+
+Button: Apply for Program
+________________
+
+
+4. CASE STUDY PAGE
+________________
+
+
+YouTube & Instagram Growth for a Marketing Brand
+________________
+
+
+The Challenge
+The client had:
+                                 * Inconsistent content
+
+                                 * Low reach
+
+                                 * No clear video structure
+
+                                 * Poor retention
+
+________________
+
+
+Our Approach
+                                    * Created a structured content format
+
+                                    * Hook-based scripting
+
+                                    * Optimized pacing in edits
+
+                                    * Repurposed long videos into reels
+
+________________
+
+
+Results
+                                       * 4 YouTube videos crossed 1,000+ views organically
+
+                                       * 3 consecutive uploads crossed 1,000+ views
+
+                                       * Improved consistency and engagement
+
+________________
+
+
+Services Provided
+                                          * YouTube scripting
+
+                                          * Video editing
+
+                                          * Content structure
+
+                                          * Reels planning
+
+________________
+
+
+5. ABOUT US PAGE
+________________
+
+
+About Us
+We are a content-first media house focused on building personal brands and digital visibility.
+Our team comes from Digygo – a digital marketing & AI agency that builds growth systems for businesses.
+We launched this studio to solve one problem:
+Most people create content.
+Very few build influence.
+We exist to change that.
+________________
+
+
+Our Philosophy
+                                             * Strategy before aesthetics
+
+                                             * Systems over randomness
+
+                                             * Growth over vanity metrics
+
+                                             * Long-term brand building
+
+________________
+
+
+6. CONTACT PAGE
+________________
+
+
+Book a Strategy Call
+Let’s understand your goals and see if we are a fit.
+Form fields:
+                                                * Name
+
+                                                * Email
+
+                                                * Company
+
+                                                * Role
+
+                                                * Monthly content goal
+
+                                                * Message
+
+CTA: Book Call
+________________
+
+
+Optional: Footer credibility line
+Built by the team behind Digygo – Digital Marketing & AI Agency.
