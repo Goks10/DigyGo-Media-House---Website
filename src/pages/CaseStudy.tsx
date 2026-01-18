@@ -68,9 +68,9 @@ export default function CaseStudy() {
                         <CardHeader><CardTitle className="flex items-center gap-2 text-white"><Trophy className="h-5 w-5 text-orange-500" /> The Results</CardTitle></CardHeader>
                         <CardContent>
                             <ul className="space-y-2 text-zinc-200">
-                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> 4 YouTube videos crossed 1k+ views organically</li>
-                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> 3 consecutive uploads &gt; 1k views</li>
-                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Improved consisteny & engagement</li>
+                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Achieved consistent organic reach on YouTube</li>
+                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Improved audience retention and watch time</li>
+                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Improved consistency & engagement</li>
                             </ul>
                         </CardContent>
                     </Card>
