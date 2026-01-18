@@ -69,6 +69,7 @@ export default function CaseStudy() {
                         <CardContent>
                             <ul className="space-y-2 text-zinc-200">
                                 <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Achieved consistent organic reach on YouTube</li>
+                                <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Streamlined the content production workflow</li>
                                 <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Improved audience retention and watch time</li>
                                 <li className="flex items-start gap-2"><Check className="h-5 w-5 text-orange-500 shrink-0" /> Improved consistency & engagement</li>
                             </ul>

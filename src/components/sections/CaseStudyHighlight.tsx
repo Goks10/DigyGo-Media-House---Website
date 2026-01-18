@@ -29,7 +29,7 @@ export function CaseStudyHighlight() {
                                 Marketing Brand – YouTube Growth
                             </h2>
                             <ul className="mb-8 space-y-4">
-                                {["Achieved consistent organic reach on YouTube", "Improved audience retention and watch time", "Improved consistency & engagement"].map((item, i) => (
+                                {["Achieved consistent organic reach on YouTube", "Streamlined the content production workflow", "Improved audience retention and watch time", "Improved consistency & engagement"].map((item, i) => (
                                     <li key={i} className="flex items-start gap-3 text-muted-foreground">
                                         <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-orange-500 shrink-0" />
                                         {item}
