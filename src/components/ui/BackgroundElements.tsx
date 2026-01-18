@@ -35,7 +35,7 @@ export function BackgroundElements() {
                     <Icon size={64} strokeWidth={1} />
                 </motion.div>
             ))}
-            <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,hsl(var(--background))_100%)] opacity-80" />
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,hsl(var(--background))_100%)] opacity-40" />
         </div>
     );
 }

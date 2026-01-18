@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export function Footer() {
     return (
-        <footer className="w-full border-t border-white/10 bg-black py-12">
+        <footer className="w-full border-t border-white/10 bg-black py-12 relative z-10">
             <div className="container px-4 md:px-6">
                 <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
                     <div className="flex flex-col gap-4">
@@ -19,7 +19,7 @@ export function Footer() {
                         <ul className="grid gap-2 text-sm text-muted-foreground">
                             <li><Link to="/services" className="hover:text-orange-500">YouTube Authority</Link></li>
                             <li><Link to="/services" className="hover:text-orange-500">Short-Form Content</Link></li>
-                            <li><Link to="/branding" className="hover:text-orange-500">Personal Branding</Link></li>
+                            <li><Link to="/program" className="hover:text-orange-500">Personal Branding</Link></li>
                         </ul>
                     </div>
                     <div>
@@ -46,7 +46,7 @@ export function Footer() {
                     </div>
                 </div>
                 <div className="mt-8 border-t border-white/10 pt-8 text-center text-xs text-muted-foreground">
-                    <p>© 2024 DigyGo Media House. All rights reserved.</p>
+                    <p>© 2025 DigyGo Media House. All rights reserved.</p>
                     <p className="mt-2">Built by the team behind DigyGo – Digital Marketing & AI Agency.</p>
                 </div>
             </div>
