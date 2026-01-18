@@ -1,6 +1,6 @@
 import { Badge } from "@/components/ui/badge";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Check, BarChart, Trophy, Layers, Users, TrendingUp } from "lucide-react";
+import { Check, BarChart, Trophy, Layers, Briefcase, Target, Workflow } from "lucide-react";
 import { ScrollAnimation } from "@/components/ui/ScrollAnimation";
 
 export default function CaseStudy() {
@@ -18,9 +18,9 @@ export default function CaseStudy() {
 
             <div className="grid gap-8 lg:grid-cols-3 mb-16">
                 {[
-                    { icon: BarChart, label: "Total Views", value: "500K+" },
-                    { icon: Users, label: "New Subscribers", value: "12.5K" },
-                    { icon: TrendingUp, label: "Lead Increase", value: "300%" }
+                    { icon: Briefcase, label: "Team behind Digygo", value: "Built by Marketers" },
+                    { icon: Target, label: "Personal branding specialists", value: "Founder Focused" },
+                    { icon: Workflow, label: "Process over randomness", value: "System Driven" }
                 ].map((stat, i) => (
                     <ScrollAnimation key={i} delay={i * 0.1} animation="scaleUp">
                         <Card className="bg-zinc-900/50 border-white/10 text-center py-8">
@@ -28,7 +28,7 @@ export default function CaseStudy() {
                                 <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-orange-500/10 text-orange-500">
                                     <stat.icon className="h-8 w-8" />
                                 </div>
-                                <div className="text-4xl font-bold text-white mb-2">{stat.value}</div>
+                                <div className="text-2xl font-bold text-white mb-2">{stat.value}</div>
                                 <div className="text-muted-foreground">{stat.label}</div>
                             </CardContent>
                         </Card>
